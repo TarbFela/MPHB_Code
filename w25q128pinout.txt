@@ -1,4 +1,0 @@
-CS  3v
-io1 io3
-io2 clk
-g   io0
